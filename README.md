@@ -4,4 +4,4 @@ am gaining even more experience with C and C#. I'm looking forward to entering t
 Email: cibakkn@gmail.com
 
 👀 I’m interested in helping people and the environment, and learning.
-🌱 I’m currently learning about computer science and life!
+🌱 I’m currently learning about computer science and and intrested in learning about cybersecurity!
