@@ -5,4 +5,4 @@ Email:    cibakkn@gmail.com
 Linkedin: www.linkedin.com/in/kira-cibak
 
 👀 I’m interested in helping people and the environment, and learning.
-🌱 I’m currently learning about computer science and and intrested in learning about cybersecurity!
+🌱 I’m currently learning about computer science and am interested in learning more about cybersecurity!
