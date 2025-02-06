@@ -3,6 +3,3 @@ am gaining even more experience with C and C#. I'm looking forward to entering t
 
 Email:    cibakkn@gmail.com
 Linkedin: www.linkedin.com/in/kira-cibak
-
-👀 I’m interested in helping people and the environment, and learning.
-🌱 I’m currently learning about computer science and am interested in learning more about cybersecurity!
